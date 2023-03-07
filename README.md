@@ -32,6 +32,6 @@ I'm a full-stack developer with experience in VueJS, Java Spring, and Node.js. C
 </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://www.github.com/yacineXP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/yacineXP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
