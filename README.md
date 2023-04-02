@@ -7,11 +7,11 @@ Full Stack Web Developer
 I'm a full-stack developer with experience in VueJS, Java Spring, and Node.js. Currently, I'm learning Docker and Kubernates.
 
 *   🌍  I'm based in Paris, France.
-*   🖥️  See my portfolio at [MyPorfolio](http://yacine.site)
-*   ✉️  You can contact me at [contact@yacine.site](mailto:contact@yacine.site)
-*   🧠  I'm learning Cloud Computing, AWS, Docker, Kubernates
+*   🖥️  See my portfolio at [MyPorfolio](http://yacine.site).
+*   ✉️  You can contact me at [contact@yacine.site](mailto:contact@yacine.site).
+*   🧠  I'm learning Cloud Computing, Virtualization & Network Security.
 *   🚀  I'm currently working on [StockElec : Laboratory's WebApp](http://stockelec.esiea.fr) 
-    as Java Back End Developer
+    as Java Back End Developer.
 
 
 ### Skills 
