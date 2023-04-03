@@ -4,7 +4,7 @@ Hi 👋 My name is Yacine
 Full Stack Web Developer
 ------------------------
 
-I'm a full-stack developer with experience in VueJS, Java Spring, and Node.js. Currently, I'm learning Docker and Kubernates.
+I'm a full-stack developer with experience in VueJS, Java Spring, and Node.js. Currently, I'm learning Cloud Computing along with Docker and Kubernates.
 
 *   🌍  I'm based in Paris, France.
 *   🖥️  See my portfolio at [MyPorfolio](http://yacine.site).
